@@ -71,4 +71,5 @@ Point LinearQueue<Point>::getMax() const {
     });
 }
 
+
 #endif //NALOGA7_1_POINTPRIMER_LINEARQUEUE_H
