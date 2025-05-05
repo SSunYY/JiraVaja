@@ -56,6 +56,13 @@ build CMakeFiles/Naloga7_1_PointPrimer.dir/Point_(1).cpp.obj: CXX_COMPILER__Nalo
   OBJECT_DIR = CMakeFiles\Naloga7_1_PointPrimer.dir
   OBJECT_FILE_DIR = CMakeFiles\Naloga7_1_PointPrimer.dir
 
+build CMakeFiles/Naloga7_1_PointPrimer.dir/main.cpp.obj: CXX_COMPILER__Naloga7_1_PointPrimer_unscanned_Debug C$:/Users/Martini/Documents/2._etnik_faks/2._semester/P2/Naloga7.1-PointPrimer/main.cpp || cmake_object_order_depends_target_Naloga7_1_PointPrimer
+  DEP_FILE = CMakeFiles\Naloga7_1_PointPrimer.dir\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/Martini/Documents/2._etnik_faks/2._semester/P2/Naloga7.1-PointPrimer/.
+  OBJECT_DIR = CMakeFiles\Naloga7_1_PointPrimer.dir
+  OBJECT_FILE_DIR = CMakeFiles\Naloga7_1_PointPrimer.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Naloga7_1_PointPrimer
@@ -64,7 +71,7 @@ build CMakeFiles/Naloga7_1_PointPrimer.dir/Point_(1).cpp.obj: CXX_COMPILER__Nalo
 #############################################
 # Link the executable Naloga7_1_PointPrimer.exe
 
-build Naloga7_1_PointPrimer.exe: CXX_EXECUTABLE_LINKER__Naloga7_1_PointPrimer_Debug CMakeFiles/Naloga7_1_PointPrimer.dir/Point_(1).cpp.obj
+build Naloga7_1_PointPrimer.exe: CXX_EXECUTABLE_LINKER__Naloga7_1_PointPrimer_Debug CMakeFiles/Naloga7_1_PointPrimer.dir/Point_(1).cpp.obj CMakeFiles/Naloga7_1_PointPrimer.dir/main.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Naloga7_1_PointPrimer.dir

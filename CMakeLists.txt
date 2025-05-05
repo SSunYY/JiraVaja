@@ -8,4 +8,5 @@ include_directories(.)
 add_executable(Naloga7_1_PointPrimer
         "Point (1).cpp"
         Point.h
-        LinearQueue.h)
+        LinearQueue.h
+        main.cpp)
