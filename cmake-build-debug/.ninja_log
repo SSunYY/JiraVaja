@@ -1,2 +1,5 @@
 # ninja log v5
 1	321	7681502672110793	CMakeFiles/Naloga7_1_PointPrimer.dir/Point_(1).cpp.obj	e10579c67afb3f0d
+11	392	7681673086730385	CMakeFiles/Naloga7_1_PointPrimer.dir/Point_(1).cpp.obj	e10579c67afb3f0d
+0	678	7681673089609602	CMakeFiles/Naloga7_1_PointPrimer.dir/main.cpp.obj	99c6d7d810c3ede6
+678	923	7681673092059361	Naloga7_1_PointPrimer.exe	db507bc8c75cf1e3
