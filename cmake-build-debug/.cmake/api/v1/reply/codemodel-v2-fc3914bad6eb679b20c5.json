@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Naloga7_1_PointPrimer",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Naloga7_1_PointPrimer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Naloga7_1_PointPrimer-Debug-20b0eddf53110bb871cd.json",
+					"name" : "Naloga7_1_PointPrimer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Martini/Documents/2._etnik_faks/2._semester/P2/Naloga7.1-PointPrimer/cmake-build-debug",
+		"source" : "C:/Users/Martini/Documents/2._etnik_faks/2._semester/P2/Naloga7.1-PointPrimer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

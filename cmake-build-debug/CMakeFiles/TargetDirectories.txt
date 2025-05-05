@@ -1,0 +1,3 @@
+C:/Users/Martini/Documents/2._etnik_faks/2._semester/P2/Naloga7.1-PointPrimer/cmake-build-debug/CMakeFiles/Naloga7_1_PointPrimer.dir
+C:/Users/Martini/Documents/2._etnik_faks/2._semester/P2/Naloga7.1-PointPrimer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Martini/Documents/2._etnik_faks/2._semester/P2/Naloga7.1-PointPrimer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
