@@ -17,6 +17,9 @@ public:
     Point(int x, int y);
 
     friend std::ostream& operator<<(std::ostream& os, const Point& point);
+
+    int getX() const { return x; }
+    int getY() const { return y; }
 };
 
 
